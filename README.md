@@ -2,9 +2,7 @@
 //  ViewController.swift
 //  TimerApp
 //
-//  Created by HIROKI INOUE on 2017/07/07.
-//  Copyright © 2017年 eEducation Labs. All rights reserved.
-//
+
 
 import UIKit
 
